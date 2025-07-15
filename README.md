@@ -8,8 +8,12 @@ A virtualized lab demonstrating deployment of Windows Server 2022 as a domain co
 
   Installed Windows Server 2022 in VirtualBox
     - Named the VM
+      
 ![DCName](DCName.png)
+
     - Allocated Ram and Processors
 ![DCHardware](DCHardware.png)
+
     - Allocated 50 GB of hard disk space
+      
 ![DCHardDisk](DCHardDisk.png)
