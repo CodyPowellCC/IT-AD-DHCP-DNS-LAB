@@ -2,8 +2,9 @@
 A virtualized lab demonstrating deployment of Windows Server 2022 as a domain controller, DNS/DHCP configuration, and Windows 11 client domain integration for enterprise simulation.
 
 - Windows Server 2022 (Domain Controller, DNS, DHCP)
-- Windows 10/11 Pro (Clients)
+- Windows 11 Pro (Clients)
 - VirtualBox (Virtualization)
-- Active Directory, Group Policy, DNS, Reverse Lookup Zones
+- Active Directory, DHCP, DNS, Reverse Lookup Zones
 
   Installed Windows Server 2022 in VirtualBox
+![DCName](images/DCName.png)
