@@ -54,7 +54,7 @@ Installed Windows Server 2022 in VirtualBox
 ![Client-1-CMD](Client-1-CMD.png) ![Client-2-CMD](Client-2-CMD.png)
 
     - Ping and nslookup results for client 1 and 2
-![Client-1-Ping-Lookup](Client-1-Ping-Lookup.png) ![Client-2-Ping-Lookup](Client-2-Ping-Lookup.png)
+![Client-1-Ping-Lookup](Client-1-Ping-Lookup.png) ![Client-2-Ping-lookup](Client-2-Ping-lookup.png)
 
     - Client 1 and 2 successful joining of the lab.com domain
 ![Client-1-Lab-Join](Client-1-Lab-Join.png) ![Client-2-Lab-Join](Client-2-Lab-Join.png)
