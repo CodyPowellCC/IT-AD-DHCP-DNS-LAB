@@ -1,4 +1,4 @@
-# Title: Windows Server 2022 Active Directory Lab
+# Windows Server 2022 Active Directory Lab
 A virtualized lab demonstrating deployment of Windows Server 2022 as a domain controller, DNS/DHCP configuration, and Windows 11 client domain integration for enterprise simulation.
 
 - Windows Server 2022 (Domain Controller, DNS, DHCP)
