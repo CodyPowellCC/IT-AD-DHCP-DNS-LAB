@@ -1,2 +1,9 @@
-# IT-Lab-Portfolio
-This is a repository where i can share what I've done, and screenshots to go with it!
+# Title: Windows Server 2022 Active Directory Lab
+A virtualized lab demonstrating deployment of Windows Server 2022 as a domain controller, DNS/DHCP configuration, and Windows 11 client domain integration for enterprise simulation.
+
+- Windows Server 2022 (Domain Controller, DNS, DHCP)
+- Windows 10/11 Pro (Clients)
+- VirtualBox (Virtualization)
+- Active Directory, Group Policy, DNS, Reverse Lookup Zones
+
+  Installed Windows Server 2022 in VirtualBox
