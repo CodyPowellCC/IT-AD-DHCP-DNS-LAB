@@ -61,4 +61,4 @@ Installed Windows Server 2022 in VirtualBox
 
     - Client 1 and 2 successful signing in after being joined to the lab.com domain
 
-![Client-1-Signed-in](Client-1-Signed-in.png) ![Client-2-Signed-in](Client-2-Signed-in.png)
+![Client-1-Signed-in](Client-1-Signed-in.png) ![Client-2-signed-in](Client-2-signed-in.png)
