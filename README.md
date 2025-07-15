@@ -7,4 +7,4 @@ A virtualized lab demonstrating deployment of Windows Server 2022 as a domain co
 - Active Directory, DHCP, DNS, Reverse Lookup Zones
 
   Installed Windows Server 2022 in VirtualBox
-![DCName](images/DCName.png)
+![DCName](DCName.png)
